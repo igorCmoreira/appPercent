@@ -17,7 +17,7 @@ const TxtOptions = ({options = [], onChangeSelect, horizontal, selected}) => {
     </View>
   )
 }
-
+// 
 const styles =StyleSheet.create({
   horizontal: {
     flexDirection: 'row',
